@@ -5,3 +5,4 @@ TeamSpeak3Plugin: Display you some information about clients, servers and channe
 
 The link above is outdated. Please refer to the github release page to find the current 
 version.
+
